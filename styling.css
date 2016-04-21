@@ -1,0 +1,59 @@
+*{
+  
+}
+body{
+  background:black;  
+}
+#big_wrapper{
+     
+     text-align:center;
+}
+.mymodal_cont { 
+  width:400px; height:200px; background:white;
+  opacity:0.8; 
+  position:fixed; 
+  left:35%;
+  top:30%;
+  border-radius:10px;
+}
+#left-side{
+  margin-left: 40px;
+  float:left;
+}
+ #right-side{
+   margin-right: 40px;
+  float:right;   
+}
+#modal_text{
+  font-size:40px;  
+}
+button {
+	width: 70px;
+	height: 70px;
+	font-size: 30px;
+	line-height: 10px;
+	text-align: center;
+	border-style: none;
+	border-radius: 5px;
+	background-color: silver;
+}
+#grid {
+  overflow:hidden;
+  margin: 60px auto;
+  padding:14px 0px 0px 6px;
+  background:silver;
+  width: 275px;
+  height: 275px;
+}
+
+ span{
+    float:left;
+    background:gray;
+    color:blue;
+    margin: 0px 0px 10px 10px;
+    padding:30px;
+    width:75px;
+    height:75px;
+    font-size: 25px;
+    text-align:center;
+}
