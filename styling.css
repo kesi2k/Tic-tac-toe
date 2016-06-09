@@ -8,6 +8,19 @@ body{
      
      text-align:center;
 }
+#menu_header li{float:right;
+       padding: 15px;
+       list-style:none; 
+}
+#Main{ 
+       color:black;
+       padding-top:250px;
+}
+.blue-text{font-family: times;
+           color:blue;
+           font-size: 25px;
+           text-align: left
+}
 .mymodal_cont { 
   width:400px; height:200px; background:white;
   opacity:0.8; 
